@@ -1,6 +1,6 @@
 # my-first-repo
 just testing github
-# guess_number.py
+# guess_number.p
 import random
 
 print("🎯 بازی حدس عدد 🎯")
